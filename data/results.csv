@@ -1,0 +1,7 @@
+ip,hostname,port,service,status,latency_ms,http_status,http_server,http_title,banner
+1.1.1.1,,8080,HTTP-Proxy,OPEN,25.7,301 Moved Permanently,cloudflare,301 Moved Permanently,
+1.1.1.1,,80,HTTP,OPEN,28.0,301 Moved Permanently,cloudflare,301 Moved Permanently,
+1.1.1.1,,443,HTTPS,OPEN,25.5,301 Moved Permanently,cloudflare,,
+1.1.1.1,,8443,HTTPS-Alt,OPEN,22.1,301 Moved Permanently,cloudflare,,
+1.1.1.1,,8000,HTTP-Alt,OPEN,21.8,,,,
+1.1.1.1,,8888,HTTP-Alt,OPEN,21.8,,,,
